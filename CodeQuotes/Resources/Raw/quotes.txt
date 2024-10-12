@@ -1,0 +1,10 @@
+﻿Code is like humor. When you have to explain it, it’s bad. – Cory House
+Fix the cause, not the symptom. – Steve Maguire
+Make it work, make it right, make it fast. – Kent Beck
+The only way to go fast is to go well. – Robert C. Martin
+First, solve the problem. Then, write the code. – John Johnson
+Simplicity is the soul of efficiency. – Austin Freeman
+Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson
+Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler
+Testing leads to failure, and failure leads to understanding. – Burt Rutan
+It’s not a bug – it’s an undocumented feature. – Anonymous
