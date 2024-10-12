@@ -28,6 +28,7 @@
 
         Random random = new Random();
 
+        // TODO: Implement the BtnGenerateQuote_OnClicked method
         private void BtnGenerateQuote_OnClicked(object? sender, EventArgs e)
         {
             var startColor = System.Drawing.Color.FromArgb(
